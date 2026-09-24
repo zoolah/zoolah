@@ -16,7 +16,7 @@ Lately I've been deep into reverse engineering, especially VM Architecture and l
 - Interned at **Verizon** as a Data Engineer focusing on AI data analysis
 - Full stack services like digital rights management & code licensing
 - Deep knowledge of LLMs and machine learning, especially in the realm of predictive modeling
-- Low level game analysis & reverse engineering, built a few cheats to learn how to manipulate and understand undocumented data structures
+- Low level analysis & reverse engineering, built a few cheats to learn how to manipulate and understand undocumented data structures
 - IoT Projects / Automation (Home Assistant, Raspberry Pi, Zigbee)
 - Roblox Game development in LuaU (and some cheats for them)
 
