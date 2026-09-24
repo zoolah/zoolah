@@ -20,9 +20,6 @@ Lately I've been deep into reverse engineering, especially VM Architecture and l
 - Deep knowledge of LLMs and machine learning, especially in the realm of predictive modeling
 - Low level game analysis & reverse engineering, building cheats/trainers to manipulate and understand undocumented data structures
 
-### Languages I use most
-`Lua` · `JavaScript` · `Python` · `C` · `C++` · `Node.js` . `Native JS` 
-
 ### Contact
 Discord: **@zula**
 
