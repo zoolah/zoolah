@@ -8,7 +8,7 @@ Lately I've been deep into reverse engineering, especially VM Architecture and l
 
 ### Currently
 - Studying Computer Science & Cybersecurity
-- Exploring reverse engineering, virtual machines, and low-level systems
+- Exploring reverse engineering, virtual machines, and low-level programming concepts
 - Building tools and experiments in Lua, C++, and Python
 - Working on a few roblox games (LuaU)
 
