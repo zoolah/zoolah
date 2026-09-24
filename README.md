@@ -1,7 +1,7 @@
 # Hey, I'm Zula 👋
 
 Computer Science/Cybersecurity student based in Texas.  
-I've been learning To code since about 6th grade and I'm currently a freshman in college.
+I've been coding since about 6th grade and I'm currently a freshman in college.
 
 I mainly work with **Lua, JavaScript, Python, and C/C++**, and I'm very comfortable across all of them.  
 Lately I've been deep into reverse engineering, especially VM Architecture and learning assembly for binary analysis.
@@ -16,8 +16,9 @@ Lately I've been deep into reverse engineering, especially VM Architecture and l
 - Interned at **Verizon** as a Data Engineer focusing on AI data analysis
 - IoT (Home Assistant, Raspberry Pi)
 - Game development (Roblox)
-- Full stack applications including digital rights management & code licensing
-- Low level game analysis & reverse engineering, building cheats/trainers to manipulate and understand complex data structures
+- Full stack services including digital rights management & code licensing
+- Deep knowledge of LLMs and machine learning, especially in the realm of predictive modeling
+- Low level game analysis & reverse engineering, building cheats/trainers to manipulate and understand undocumented data structures
 
 ### Languages I use most
 `Lua` · `JavaScript` · `Python` · `C` · `C++` · `Node.js` . `Native JS` 
