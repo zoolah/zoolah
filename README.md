@@ -3,7 +3,7 @@
 Computer Science/Cybersecurity student based in Texas.  
 I've been coding since about 6th grade and I'm currently a freshman in college.
 
-I mainly work with **Lua, JavaScript, Python, and C/C++**, and I'm very comfortable across all of them.  
+I mainly work with **Lua, C/C++, JavaScript, and Python**, and I'm very comfortable across all of them.  
 Lately I've been deep into reverse engineering, especially VM Architecture and learning assembly for binary analysis.
 
 ### Currently
@@ -14,11 +14,11 @@ Lately I've been deep into reverse engineering, especially VM Architecture and l
 
 ### Experience
 - Interned at **Verizon** as a Data Engineer focusing on AI data analysis
-- IoT (Home Assistant, Raspberry Pi)
-- Game development (Roblox)
-- Full stack services including digital rights management & code licensing
+- Full stack services like digital rights management & code licensing
 - Deep knowledge of LLMs and machine learning, especially in the realm of predictive modeling
 - Low level game analysis & reverse engineering, building cheats/trainers to manipulate and understand undocumented data structures
+- IoT Projects / Automation (Home Assistant, Raspberry Pi, Zigbee)
+- Roblox Game development in LuaU
 
 ### Contact
 Discord: **@zula**
