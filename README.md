@@ -18,7 +18,7 @@ Lately I've been deep into reverse engineering, especially VM Architecture and l
 - Deep knowledge of LLMs and machine learning, especially in the realm of predictive modeling
 - Low level game analysis & reverse engineering, building cheats/trainers to manipulate and understand undocumented data structures
 - IoT Projects / Automation (Home Assistant, Raspberry Pi, Zigbee)
-- Roblox Game development in LuaU
+- Roblox Game development in LuaU (and some cheats for them)
 
 ### Contact
 Discord: **@zula**
