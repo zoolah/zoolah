@@ -4,9 +4,10 @@ Computer Science/Cybersecurity student based in Texas.
 I've been coding since about 6th grade and I'm currently a freshman in college.
 
 I mainly work with **Lua, C/C++, JavaScript, and Python**, and I'm very comfortable across all of them.  
-Lately I've been deep into reverse engineering, especially VM Architecture and learning assembly for binary analysis.
+Lately I've been deep into reverse engineering, especially VM Architecture and learning assembly for binary analysis. 
 
 ### Currently
+- Learning rust
 - Studying Computer Science & Cybersecurity
 - Exploring reverse engineering, virtual machines, and low-level programming concepts
 - Building tools and experiments in Lua, C++, and Python
