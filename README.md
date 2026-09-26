@@ -1,6 +1,6 @@
 # Hey, I'm Zula 👋
 
-Computer Science/Cybersecurity student based in Texas.  
+Computer Science/Cybersecurity student
 I've been coding since about 6th grade and I'm currently a freshman in college.
 
 I mainly work with **Lua, C/C++, JavaScript, and Python**, and I'm very comfortable across all of them.  
