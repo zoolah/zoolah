@@ -1,23 +1,18 @@
 # Hey, I'm Zula 👋
 
-Computer Science/Cybersecurity student
-I've been coding since about 6th grade and I'm currently a freshman in college.
+CS/Cybersecurity student, been coding since around 6th grade and I'm currently a freshman in college.
 
 I mainly work with **Lua, C/C++, JavaScript, and Python**, and I'm very comfortable across all of them.  
-Lately I've been deep into reverse engineering, especially VM Architecture and learning assembly for binary analysis. 
 
 ### Currently
-- Learning rust
-- Studying Computer Science & Cybersecurity
-- Exploring reverse engineering, virtual machines, and low-level programming concepts
-- Building tools and experiments in Lua, C++, and Python
+- Exploring low-level programming concepts like VM architecture
 - Working on a few roblox games (LuaU)
 
 ### Experience
 - Interned at **Verizon** as a Data Engineer focusing on AI data analysis
-- Full stack services like digital rights management & code licensing
-- Deep knowledge of LLMs and machine learning, especially in the realm of predictive modeling
-- Low level analysis & reverse engineering, built a few cheats to learn how to manipulate and understand undocumented data structures
+- Full stack services including DRM & code licensing
+- LLMs and machine learning, especially in the realm of predictive modeling (did this at Verizon)
+- Low level analysis & reverse engineering, built a few cheats to learn how to manipulate and understand undocumented data structures in memory
 - IoT Projects / Automation (Home Assistant, Raspberry Pi, Zigbee)
 - Roblox Game development in LuaU (and some cheats for them)
 
