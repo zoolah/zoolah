@@ -1,6 +1,6 @@
 # Hey, I'm Zula 👋
 
-CS/Cybersecurity student, been coding since around 6th grade and I'm currently a freshman in college.
+CS/Cybersecurity student
 
 I mainly work with **Lua, C/C++, JavaScript, and Python**, and I'm very comfortable across all of them.  
 
